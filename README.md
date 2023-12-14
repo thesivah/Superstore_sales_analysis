@@ -1,0 +1,5 @@
+-Phones has the highest number of sales whereas,
+-Copiers has the maximum number of profits
+- Standard class is the most preferred shipment mode
+-Maximum orders are generally in the last quarters
+- California has the highest sales
